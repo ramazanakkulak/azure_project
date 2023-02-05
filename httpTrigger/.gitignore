@@ -1,0 +1,5 @@
+.pytest_cache
+.vscode
+node_modules
+/ticket/sample.dat
+.env
