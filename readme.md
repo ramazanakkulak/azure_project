@@ -33,4 +33,4 @@ Azure services are used in this project. You can run the same project on Azure b
 
 ![GitHub forks](https://img.shields.io/github/forks/ramazanakkulak/azure_project?style=social)
 ![GitHub Repo stars](https://img.shields.io/github/stars/ramazanakkulak/azure_project?style=social)
-![GitHub](https://img.shields.io/github/license/ramazanakkulak/azure_project)
+
